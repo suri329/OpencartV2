@@ -1,0 +1,19 @@
+7:39:00.337 [main] INFO
+7:39:04.441 [main] INFO
+7:39:04.577 [main] INFO
+[main] INFO
+[main] INFO
+[main] INFO
+7:39:06.719 [main] INFO
+
+7:39:05.217
+7:39:05.218
+7:39:06.643
+
+org. testng. internal. Utils - [Utils] DynamicGraphHelper. createDynamicGraph() to
+testCases. TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrat
+testCases. TC001_AccountRegistrationTest - Clicked on MyAccount Link ..
+testCases.TC001_AccountRegistrationTest - Clicked on Register Link ..
+testCases.TC001_AccountRegistrationTest - Providing customer details ...
+testCases.TC001_AccountRegistrationTest - Validating expected message ..
+testCases.TC001 AccountRegistrationTest - ***** Finished TC001 AccountRegistra
